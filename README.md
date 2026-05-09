@@ -1,5 +1,8 @@
 # gnome-shell-extension-hibernate-status
 
+>[!NOTE]
+>This fork adds a UEFI button (to reboot to BIOS/UEFI) in addition to the Hibernate/Suspend then Hibernate/Hybrid Sleep buttons of the original extension. Tested and working on Gnome 45-50.
+
 Gnome Shell extension that adds a hibernate/hybrid suspend button in Status menu.
 
 Originally developed by [@arelange](https://github.com/arelange) and then [@p91paul](https://github.com/p91paul). Now maintained by [@slaclau](https://github.com/slaclau).
